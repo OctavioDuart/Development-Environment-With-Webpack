@@ -1,0 +1,10 @@
+O NodeJS suporta grande parte do EcmaScript, mas não tudo . Pois ele é baseado 
+em CommonJS , então por conta disso existem algumas poucas escritas do EcmaScript que
+o NodeJS não suporta . 
+
+
+
+O require - O import . 
+
+O require é exclusivo do CommonJS , é a maneira que o NodeJS usa para importar arquivos . 
+O import é do EcmaScript, o NodeJS também consegue usar esta sintaxe . 

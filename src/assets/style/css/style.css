@@ -1,0 +1,12 @@
+body {
+   background-color:  black ;  
+   background-image: url(../../img/janis-joplin.png);
+   background-repeat: no-repeat;
+   background-position: center ; 
+   height: 106vh;
+ }
+
+p {
+    font-size: 110px ;
+    color:  white ;      
+}
