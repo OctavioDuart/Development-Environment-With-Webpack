@@ -10,7 +10,7 @@
  "author": "Octávio Duarte",
  "license": "ISC",
  "devDependencies": {
-  "webpack-dev-server": "3.1.4",
+  "webpack-dev-server": ">=3.1.11",
   "file-loader": "1.1.11",
   "node-sass": "4.9.4",
   "sass-loader": "7.0.1",
